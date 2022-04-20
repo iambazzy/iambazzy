@@ -6,10 +6,10 @@
 
 <h4 align="center">A Budding Software Engineer with experience building stuff for the internet.</h4>
 
-<h5 align="center">
-With more than 6 years of experience in Web design & development. and i'm here to help you build/enhance your ideas/products.
-  Let's get in touch. Email me at <a href = "mailto: mohammadbasit0404@gmail.com">Gmail</a> or connect with me on <a href="https://www.linkedin.com/in/bmir/">LinkedIn</a>
-</h5>
+<h4 align="center">
+With more than 6 years of experience in Web design & development I'm here to help you build/enhance your ideas/products from inception to reality.
+  Let's get in touch 👉 email me at <a href = "mailto: mohammadbasit0404@gmail.com">Gmail</a> or connect with me on <a href="https://www.linkedin.com/in/bmir/">LinkedIn</a>
+</h4>
 <hr />
 
 <p>
