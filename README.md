@@ -8,17 +8,15 @@
 
 <hr />
 
-<img src="https://github-readme-stats.vercel.app/api?username=iambazzy&show_icons=true&theme=radical&include_all_commits=true">
-
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iambazzy&theme=radical&show_icons=true&locale=en&layout=compact" alt="iambazzy" />
+<img src="https://github-readme-stats.vercel.app/api?username=iambazzy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Basit Github Stats" height="200"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iambazzy&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact" alt="iambazzy" />
 
-</p>
-
+  <br />
+  
 <a href="https://stackoverflow.com/users/story/5679285">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=9138850&theme=dark" height="250">
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=9138850&theme=dark" height="300">
 </a>
-
+</p>
 
 ### 📫 How to reach me?
 
