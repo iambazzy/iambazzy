@@ -13,13 +13,14 @@ With more than 6 years of experience in Web design & development I'm here to hel
 <hr />
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=iambazzy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Basit Github Stats" height="200"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iambazzy&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact" alt="iambazzy" />
+<img src="https://github-readme-stats.vercel.app/api?username=iambazzy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Basit Github Stats" width="100%" height="200"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iambazzy&theme=tokyonight" alt="mystreak" height="200" width="100%"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=iambazzy&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&layout=compact" width="100%" alt="iambazzy" />
 
-  <br />
+<br />
   
-<a href="https://stackoverflow.com/users/9138850">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=9138850&theme=dark" height="300">
-</a>
+<p align="center">
+      <img width="40%" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?       user=iambazzy&repo=iambazzy&countColorcountColor&countColor=%237B1E7B"/>
+</p>
 </p>
 
 ### 📫 How to reach me?
