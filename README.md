@@ -18,9 +18,7 @@ With more than 6 years of experience in Web design & development I'm here to hel
 
 <br />
   
-<p align="center">
-      <img width="40%" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?       user=iambazzy&repo=iambazzy&countColorcountColor&countColor=%237B1E7B"/>
-</p>
+
 
 <p align="center">
   
