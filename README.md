@@ -11,6 +11,7 @@
 <br/>
 
 <div align="center">
+  <h2 style="font-size: 30px">My Tech Stack</h2>
   <img src="https://www.pikpng.com/pngl/b/224-2240652_front-end-development-logos-for-example-html-5.png" height="400px" width="700px" />
 </div>
 
