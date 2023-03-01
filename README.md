@@ -19,5 +19,6 @@
 - [Gmail](mailto:mohammadbasit0404@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/bmir/) 
 - [Buy me a coffee](https://www.buymeacoffee.com/iambazzy?source=about_page-------------------------------------)
-
+- [Stackoverflow](https://stackoverflow.com/users/9138850/mohammad-basit)
+- [Medium](https://medium.com/@mohammadbasit0404)
 
