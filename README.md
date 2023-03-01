@@ -34,5 +34,6 @@ With more than 6 years of experience in Web design & development I'm here to hel
 ### 📫 How to reach me?
 
 - [LinkedIn](https://www.linkedin.com/in/bmir/) 
+- [Buy me a coffee](https://www.buymeacoffee.com/iambazzy?source=about_page-------------------------------------)
 
 <hr />
