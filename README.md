@@ -5,7 +5,7 @@
 <h1 align="center">Hi I'm Mohammad Basit</h1>
 
 <h3 align="center">
-  A full stack developer with 6+ years of experience. <br /> Let's connect and collaborate on some cool projects!
+  A full stack developer with 5+ years of experience. <br /> Let's connect and collaborate on some cool projects!
 </h3>
 
 <br/>
