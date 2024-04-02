@@ -13,5 +13,5 @@
 ### 📫 How to reach me?
 
 - [Gmail](mailto:mohammadbasit0404@gmail.com)
-- [Buy me a coffee](https://www.buymeacoffee.com/iambazzy?source=about_page-------------------------------------)
+- [Buy me a coffee](https://www.buymeacoffee.com/beestudio)
 - [Stackoverflow](https://stackoverflow.com/users/9138850/mohammad-basit)
